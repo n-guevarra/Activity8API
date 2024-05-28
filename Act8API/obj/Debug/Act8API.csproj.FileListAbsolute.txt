@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Act8API.exe.config
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Act8API.exe
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Act8API.pdb
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.Form1.resources
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.Properties.Resources.resources
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.exe
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.pdb
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Guna.UI.dll
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Act8API\Act8API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Act8API\Act8API\obj\Debug\Act8API.csproj.Up2Date
